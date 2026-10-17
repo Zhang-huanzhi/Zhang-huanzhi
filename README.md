@@ -1,7 +1,7 @@
-﻿# Hi, I''m Zhang Huanzhi
+# Hi, I'm Zhang Huanzhi
 
 Software engineering undergrad at Southwest University of Science and Technology.  
-Backend-focused. Aiming for a Japanese master''s (修士) and later backend / cloud / SRE work in Japan.
+Backend-focused. Aiming for a Japanese master's (修士) and later backend / cloud / SRE work in Japan.
 
 ## Links
 - [EiheiZone](https://eihei.zone) — personal full-stack project (Next.js + FastAPI + PostgreSQL)
